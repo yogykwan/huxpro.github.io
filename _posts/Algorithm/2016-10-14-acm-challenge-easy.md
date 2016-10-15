@@ -14,19 +14,19 @@ tags:
 > 王者归来。
 
 # 1.1 算法笔记
-本篇为[《挑战程序设计竞赛（第2版）》](https://www.douban.com/note/282979503/)初级篇的读书笔记，旨在：
+本篇为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)初级篇的读书笔记，旨在：
 
-* 梳理算法逻辑
-* 探索优化思路
-* 深入代码细节
-* 撰写[解题报告](https://github.com/yogykwan/acm-challenge-workbook)
+- 梳理算法逻辑
+- 探索优化思路
+- 深入代码细节
+- 撰写[解题报告](https://github.com/yogykwan/acm-challenge-workbook)
 
 # 1.2 程序设计竞赛
-1. Google Code Jam（[GCJ](https://code.google.com/codejam)）
-2. Peking University Online Judge（[POJ](http://poj.org/)）
-3. CodeForces（[CF](http://codeforces.com/)）
-4. LeetCode（[LC](https://leetcode.com/)）
-5. Aizu Online Judge（[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en)）
+- Google Code Jam（[GCJ](https://code.google.com/codejam)）
+- Peking University Online Judge（[POJ](http://poj.org/)）
+- CodeForces（[CF](http://codeforces.com/)）
+- LeetCode（[LC](https://leetcode.com/)）
+- Aizu Online Judge（[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en)）
 
 ***updated at 2016.10.14***
 

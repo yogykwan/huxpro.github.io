@@ -61,10 +61,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 98db0149c4a5387a9d3e2a627ab5f982
+ba_track_id: 1965766c04d63669eaca812ec26613db
 # Google Analytics
-ga_track_id: 'UA-43667383-1'            # Format: UA-xxxxxx-xx
-ga_domain: yogy.me
+# ga_track_id: 'UA-43667383-1'            # Format: UA-xxxxxx-xx
+# ga_domain: jennica.space
 
 
 

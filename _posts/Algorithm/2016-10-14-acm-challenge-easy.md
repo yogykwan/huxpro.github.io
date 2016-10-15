@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《挑战程序设计竞赛》初级篇"
+title:      "《挑战程序设计竞赛》初级篇笔记"
 subtitle:   ""
 date:       2016-10-14
 author:     "Jennica"
@@ -13,11 +13,14 @@ tags:
 
 > 王者归来。
 
-# 1.1 程序设计竞赛
-1. Google Code Jam（[GCJ][1]）
-2. Peking University Online Judge（[POJ][3]）
-3. CodeForces（[CF][2]）
-4. LeetCode（[LC][4]）
+# 1.1 
+本篇为[《挑战程序设计竞赛》][1]初级篇的读书笔记，旨在梳理算法逻辑，探索优化思路，深入代码细节。
+
+# 1.2 程序设计竞赛
+1. Google Code Jam（[GCJ][2]）
+2. Peking University Online Judge（[POJ][4]）
+3. CodeForces（[CF][3]）
+4. LeetCode（[LC][5]）
 
 ***updated at 2016.10.14***
 
@@ -50,8 +53,9 @@ new或malloc的分配的是堆内存，全局变量存储在堆内存中，使�
 
 ***转载请注明出处***
 
-[1]: https://code.google.com/codejam
-[2]: http://codeforces.com/
-[3]: http://poj.org/
-[4]: https://leetcode.com/
+[1]: https://book.douban.com/subject/24749842/
+[2]: https://code.google.com/codejam
+[3]: http://codeforces.com/
+[4]: http://poj.org/
+[5]: https://leetcode.com/
 

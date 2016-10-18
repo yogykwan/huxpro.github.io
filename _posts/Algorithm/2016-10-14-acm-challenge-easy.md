@@ -21,7 +21,7 @@ tags:
 - 深入代码细节
 - 撰写[解题报告](https://github.com/yogykwan/acm-challenge-workbook)
 
-# 1.2 程序设计竞赛
+# 1.2 程序设计
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
 - CodeForces（[CF](http://codeforces.com/)）
@@ -46,7 +46,6 @@ tags:
 3. 栈内存与堆内存：
     - main函数中的局部变量存储在栈内存中，统一分配后不再扩大，影响栈深度，与机器设置有关。通常，C++中执行上万次递归是可行的。
     - new或malloc的分配的是堆内存，全局变量存储在堆内存中，使用全局变量代替局部变量可减少栈溢出的风险。
-
 4. 加深深度优先搜索（IDDFS）：初始的DFS递归深度限制为1，在找到解之前不断增加递归深度。
 
 

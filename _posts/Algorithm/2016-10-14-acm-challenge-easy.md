@@ -13,17 +13,48 @@ tags:
 
 > 王者归来。
 
-# 1.1 算法读书笔记说明
+# 1.1 说明
 
-本篇为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)初级篇的读书笔记，旨在：
+本篇为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)读书笔记系列，旨在：
 
 - 梳理算法逻辑
 - 探索优化思路
 - 深入代码细节
 
+# 1.2 目录
+
+1. [初级篇](http://jennica.space/2016/10/14/acm-challenge-easy/)
+    1. 穷竭搜索
+    2. 贪心
+    3. 动态规划
+    4. 数据结构
+    5. 图论
+    6. 数论
+
+2. [中级篇](http://jennica.space/2016/11/16/acm-challenge-medium/)
+    1. 二分搜索
+    2. 常用技巧
+    3. 数据结构（二）
+    4. 动态规划（二）
+    5. 网络流
+    6. 计算几何
+    
+3. [高级篇](http://jennica.space/2016/11/30/acm-challenge-hard/)
+    1. 数论（二）
+    2. 博弈论
+    3. 图论（二）
+    4. 常用技巧（二）
+    5. 智慧搜索
+    6. 分治
+    7. 字符串
+ 
+
+# 1.3 题解
+
 配套习题及详解同步发布在GitHub仓库[acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)，持续更新。
 
-# 1.2 程序设计训练题库
+
+# 1.4 题库
 
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）

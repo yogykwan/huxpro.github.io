@@ -24,8 +24,8 @@ GoF的23种设计模式中，创建型模式讨论的是高效创建对象的问
 
 ## 案例实现
 
-[《大话设计模式》C++版](https://github.com/yogykwan/design-patterns)
-
+[《大话设计模式》C++版](https://github.com/yogykwan/design-patterns-cpp)
+[《大话设计模式》Python版](https://github.com/yogykwan/design-patterns-py)
 
 # 工厂方法模式（Factory Method）
 

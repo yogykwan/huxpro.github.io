@@ -4,7 +4,7 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
- /*!
+/*!
  * Hux Blog v1.6.0 (http://startbootstrap.com)
  * Copyright 2016 @huxpro
  * Licensed under Apache 2.0 
@@ -48,7 +48,7 @@ jQuery(document).ready(function($) {
     //primary navigation slide-in effect
     if ($(window).width() > MQL) {
         var headerHeight = $('.navbar-custom').height(),
-            bannerHeight  = $('.intro-header .container').height();     
+            bannerHeight  = $('.intro-header .container').height();
         $(window).on('scroll', {
                 previousTop: 0
             },

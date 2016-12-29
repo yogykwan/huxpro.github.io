@@ -11,7 +11,7 @@ tags:
     - 读书
 ---
 
-# 说明
+# 前言
 
 ## 创建型模式
 GoF的23种设计模式中，创建型模式讨论的是高效创建对象的问题，共5种：
@@ -24,8 +24,8 @@ GoF的23种设计模式中，创建型模式讨论的是高效创建对象的问
 
 ## 案例实现
 
-[《大话设计模式》C++版](https://github.com/yogykwan/design-patterns-cpp)
-[《大话设计模式》Python版](https://github.com/yogykwan/design-patterns-py)
+- [《大话设计模式》C++版](https://github.com/yogykwan/design-patterns-cpp)
+- [《大话设计模式》Python版](https://github.com/yogykwan/design-patterns-py)
 
 # 工厂方法模式（Factory Method）
 
@@ -63,6 +63,16 @@ GoF的23种设计模式中，创建型模式讨论的是高效创建对象的问
 5. 在具体原型类中，MemberwiseClone()方法是浅拷贝，对值类型字段诸位拷贝，对引用类型只复制引用但不会把具体的对象值拷贝过来。
 6. 比起浅拷贝，深拷贝把引用对象的变量指向新对象，而不是原被引用的对象。对于需要深拷贝的每一层，都需要实现ICloneable原型模式。
 7. 数据集对象DataSet，Clone()是浅拷贝，Copy()是深拷贝。
+
+# 对比总结
+
+- 工厂方法模式：为不同子类创建不同工厂；
+- 抽象工厂模式：为不同系列建造不同工厂；
+- 单例模式：保证实例唯一；
+- 建造者模式：为不同类组装出一套相同的方法；
+- 原型模式：实现深拷贝。
+
+
 
 ---
 

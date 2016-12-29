@@ -99,18 +99,10 @@
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-.side-catalog .catalog-body .h1_nav {
-  margin-left: 0;
-  font-size: 13px;
-  font-weight: bold;
-}
-.side-catalog .catalog-body .h2_nav {
-  margin-left: 3px;
-  font-size: 13px;
-  font-weight: bold;
-}
+.side-catalog .catalog-body .h1_nav,
+.side-catalog .catalog-body .h2_nav,
 .side-catalog .catalog-body .h3_nav {
-  margin-left: 6px;
+  margin-left: 0;
   font-size: 13px;
   font-weight: bold;
 }
@@ -162,6 +154,7 @@ h6 {
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
 }

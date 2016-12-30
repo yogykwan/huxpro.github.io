@@ -2,7 +2,7 @@
 layout:     post
 title:      "大话设计模式之结构型"
 subtitle:   ""
-date:       2016-12-28
+date:       2016-12-30
 author:     "Jennica"
 header-img: "img/post-bg-patterns.jpg"
 catalog: true

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      “算法高级篇笔记"
+title:      "算法梳理高级篇"
 subtitle:   ""
 date:       2016-11-30
 author:     "Jennica"

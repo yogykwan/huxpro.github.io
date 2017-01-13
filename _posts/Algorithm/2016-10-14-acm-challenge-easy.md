@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      “算法初级篇笔记"
+title:      "算法梳理初级篇"
 subtitle:   ""
 date:       2016-10-14
 author:     "Jennica"

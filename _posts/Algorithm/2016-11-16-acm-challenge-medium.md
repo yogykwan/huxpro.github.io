@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《挑战程序设计竞赛》中级篇笔记"
+title:      “算法中级篇笔记"
 subtitle:   ""
 date:       2016-11-16
 author:     "Jennica"

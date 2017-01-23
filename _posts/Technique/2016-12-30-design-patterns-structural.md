@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 技术
     - 读书
+    - 架构
 ---
 
 # 前言

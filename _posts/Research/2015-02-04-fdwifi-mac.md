@@ -11,6 +11,8 @@ tags:
     - 无线
 ---
 
+# 摘要
+
 ## fdwifi模块
 - 无线全双工通信模块
   - RFD（中继全双工）- [MAC](http://aurum.cs.inf.shizuoka.ac.jp/pdf/B137_tamaki.pdf)的实施
@@ -22,6 +24,8 @@ tags:
   - IEEE 802.11标准外的
   - QoS控制
   - 数据包分割
+
+# 设计
 
 ## 无线全双工通讯
 - 无线全双工通信是在同一时间、同一频带能够发送和接收的技术
@@ -89,7 +93,7 @@ tags:
   3. HasFrames=0 & NextHop=0
   4. HasFrames=0 & NextHop=1
 
-## fdwifi模块的功能实现
+# 实现
 - 全双工通信
   - 加入FD（全双工）状态作为新的状态
   - 在开始接收帧的时候，添加报头接收调度处理事件

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "大话设计模式之行为型"
+title:      "大话设计模式：行为型"
 subtitle:   ""
 date:       2017-01-03
 author:     "Jennica"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Kali Linux下常用软件安装及配置"
+title:      "Kali Linux：常用软件安装及配置"
 subtitle:   ""
 date:       2015-07-12
 author:     "Jennica"

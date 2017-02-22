@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "大话设计模式之结构型"
+title:      "大话设计模式：结构型"
 subtitle:   ""
 date:       2016-12-30
 author:     "Jennica"

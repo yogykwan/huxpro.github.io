@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Kali Linux安装及基础配置"
+title:      "Kali Linux：安装及基础配置"
 subtitle:   ""
 date:       2015-07-11
 author:     "Jennica"

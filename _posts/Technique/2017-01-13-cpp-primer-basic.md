@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《C++ Primer》第I部分：C++基础"
+title:      "C++ Primer：C++基础"
 subtitle:   ""
 date:       2017-01-13
 author:     "Jennica"

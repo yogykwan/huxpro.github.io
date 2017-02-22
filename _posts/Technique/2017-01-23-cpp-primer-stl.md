@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "C++ Primer：标准库"
+title:      "C++ Primer：C++标准库"
 subtitle:   ""
 date:       2017-01-23
 author:     "Jennica"

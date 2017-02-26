@@ -14,7 +14,7 @@ tags:
 
 # Source
 
-- [Programming Foundations with Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036https://github.com/yogykwan/movie-trailer-website)
+- [Programming Foundations with Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
 
 # Function
 

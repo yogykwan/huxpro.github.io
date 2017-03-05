@@ -78,4 +78,3 @@ tags:
 - store into database - `password=h|some_salt` 
 - transmit login info (HTTPS=HTTP+SSL) - `_name, _password`
 - check password - `h == hashlib.sha256(_name+_password+some_salt)`
-

@@ -42,4 +42,3 @@ tags:
 - Bootstrap typography - `text-right`, `text-uppercase`
 - custom CSS - self-built CSS to supplement some effects out of framework
 - interactive taste - link Bootstrap and JQuery JavaScript files, use `data-data-toggle="modal"`, `data-target`, `modal-fade`
-

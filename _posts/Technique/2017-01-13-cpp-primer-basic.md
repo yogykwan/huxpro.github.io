@@ -17,7 +17,11 @@ tags:
 
 # 前言
 
-把[《C++ Primer》](https://book.douban.com/subject/25708312/)读薄系列笔记。本篇为第I部分C++基础，包含全书第1～7章重难点：
+把[《C++ Primer》](https://book.douban.com/subject/25708312/)读薄系列笔记，第I部分：C++基础。
+
+## 目录
+
+[第I部分：C++基础](http://jennica.space/2017/01/13/cpp-primer-basic/)
 
 1. 开始学习C++
 2. 变量和基本类型
@@ -27,7 +31,23 @@ tags:
 6. 函数
 7. 类
 
-修订版课后题解见GitHub仓库[cpp-primer-workbook](https://github.com/yogykwan/CppPrimer)。
+[第II部分：C++标准库](http://jennica.space/2017/01/23/cpp-primer-stl/)
+
+8. IO库
+9. 顺序容器
+10. 范型算法
+11. 关联容器
+12. 动态内存
+
+[第III部分：类设计者的工具](http://jennica.space/2017/03/14/cpp-primer-ood/)
+
+13. 拷贝控制
+14. 重载运算与类型转换
+15. 面向对象程序设计
+16. 模版与泛型编程
+
+## 题解
+修订版**课后题解**见GitHub仓库：[cpp-primer-workbook](https://github.com/yogykwan/CppPrimer)。
 
 # 开始学习C++
 

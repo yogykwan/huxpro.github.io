@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Programming Foundations with Python"
+title:      “Intro to Python"
 subtitle:   ""
 date:       2017-02-25
 author:     "Jennica"
@@ -15,6 +15,10 @@ tags:
 # Source
 
 - [Programming Foundations with Python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
+
+# Project
+
+- [movie-trailer-website](https://github.com/yogykwan/movie-trailer-website) : a static web page allowing visitors to browse movies and watch trailers.
 
 # Function
 
@@ -38,6 +42,3 @@ tags:
 - self-built modules like `fresh-tomatoes`
 - function and data members in modules like `show_something()` or `some_data`
 
-# Project
-
-- [movie-trailer-website](https://github.com/yogykwan/movie-trailer-website) : a static web page allowing visitors to browse movies and watch trailers.

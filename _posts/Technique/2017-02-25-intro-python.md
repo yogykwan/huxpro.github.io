@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      “Intro to Python"
+title:      "Intro to Python"
 subtitle:   ""
 date:       2017-02-25
 author:     "Jennica"

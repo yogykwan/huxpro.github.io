@@ -70,7 +70,7 @@ ba_track_id: 1965766c04d63669eaca812ec26613db
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "有情怀的暗夜跑者 | 会编码的文艺青年 | 尚自由的浪漫黑客"
+sidebar-about-description: "一生愿做浪漫极客。"
 sidebar-avatar: /img/gavatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

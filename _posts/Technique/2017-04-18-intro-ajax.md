@@ -8,7 +8,8 @@ header-img: "img/post-bg-geek.jpg"
 catalog: true
 tags:
     - 技术
-    - 系统设计
+    - Web
+    - 前端
 ---
 
 
@@ -33,7 +34,7 @@ tags:
 ## Manage HTML Elements
 
 ```javascript
-var $element = $(‘#element_id’);
+var $element = $('#element_id');
 $element.append(HTML_CODE);
 ```
 
@@ -42,20 +43,20 @@ $element.append(HTML_CODE);
 ## jQuery.getJSON()
 
 ```javascript
-$.getJSON(URL, function(data) {…})
+$.getJSON(URL, function(data) {...})
 .error(function(e) {...});
 ```
 
 ## jQuery.ajax()
 
 ```javascript
-var timeout = setTimeout(function() {…}, TIMEOUT_PERIOD);
+var timeout = setTimeout(function() {...}, TIMEOUT_PERIOD);
 $.ajax({
   url: URL,
-  dataType: ‘jsonp’,
+  dataType: 'jsonp',
   // jsonp: ‘callback’,
   success: function(data) {
-    …
+    ...
     clearTimeout(timeout);
   }
 });

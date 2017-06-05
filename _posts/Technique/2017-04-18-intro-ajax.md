@@ -40,6 +40,8 @@ $element.append(HTML_CODE);
 
 # jQuery
 
+jQuery is library of AJAX, DOM manipulation, supporting different browsers.
+
 ## jQuery.getJSON()
 
 ```javascript

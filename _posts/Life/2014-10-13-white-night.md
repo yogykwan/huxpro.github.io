@@ -2,7 +2,7 @@
 layout:     post
 title:      "冷光中的末路穷途"
 subtitle:   "读《白夜行》"
-date:       2015-10-13
+date:       2014-10-13
 author:     "Jennica"
 header-img: "img/post-bg-white-night.jpg"
 catalog: false

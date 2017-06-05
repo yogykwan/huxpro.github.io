@@ -2,7 +2,7 @@
 layout:     post
 title:      "孤独是一种偿还"
 subtitle:   "读《百年孤独》"
-date:       2015-09-30
+date:       2014-09-30
 author:     "Jennica"
 header-img: "img/post-bg-century-solitude.jpg"
 catalog: false

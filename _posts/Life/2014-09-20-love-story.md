@@ -2,7 +2,7 @@
 layout:     post
 title:      "光与影的情书"
 subtitle:   "\"Hello Jennica\""
-date:       2015-09-20
+date:       2014-09-20
 author:     "Jennica"
 header-img: "img/post-bg-love-story.jpg"
 catalog: false

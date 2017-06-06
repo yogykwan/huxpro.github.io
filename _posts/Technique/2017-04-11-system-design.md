@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "系统设计入门"
+title:      "系统设计原理"
 subtitle:   ""
 date:       2017-04-11
 author:     "Jennica"
-header-img: "img/post-bg-geek.jpg"
+header-img: "img/post-bg-internet.jpg"
 catalog: true
 tags:
     - 技术
